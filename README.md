@@ -53,13 +53,11 @@ I'm a Computer Science student passionate about building high-impact software. I
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **SweetReactions.ai** | AI-powered glucose-response coach with food scoring & insights. Built for a US wellness founder. | <a href="https://apps.apple.com/us/app/sweetreactions-ai/id6476710616"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/></a> <a href="https://play.google.com/store/apps/details?id=com.sweetreactions.ai"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"/></a> |
+| **SweetReactions AI** | AI-powered glucose-response coach with food scoring & insights. Built for a US wellness founder. | <a href="https://apps.apple.com/in/app/sweetreactions-ai/id6749315439"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/></a> <a href="https://play.google.com/store/apps/details?id=com.sweetreactions.app"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"/></a> |
 | **Aanavandi (500k+ Installs)** | Offline-first public transport app for Kerala. Built with Flutter & SQLite. | <a href="https://play.google.com/store/apps/details?id=aanavandi.services"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"/></a> |
 | **SwopBand** | NFC profile sharing app that lets you share your profile instantly with a tap of your NFC ring. | <a href="https://apps.apple.com/us/app/swopband/id6749292126"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/></a> |
 | **BroachCutter Dealer App** | B2B e-commerce app for official dealers of BroachCutter Drilling Machines. Built with Flutter + Firebase. | <a href="https://apps.apple.com/in/app/broachcutter-dealer/id6748963995"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/></a> |
 | **Dashlytics** | **BuildFest '25 Finalist.** Turns sales analytics into AI story cards & voice insights. | <a href="https://www.youtube.com/watch?v=y_FnW5DuiXM"><img src="https://img.shields.io/badge/Watch%20Demo-red?style=for-the-badge&logo=youtube"/></a> |
-| **LMG** | Sign language translator (Text ↔ Sign) using Gemini 2.5 Pro gesture recognition. | <a href="httpsm://pub-d9afa562558146b39c2630ebdaf3018a.r2.dev/LMG/LMG%20App.apk"><img src="https://img.shields.io/badge/Download%20APK-25D366?style=for-the-badge"/></a> |
-
+| **LMG** | Sign language translator (Text ↔ Sign) using Gemini 2.5 Pro gesture recognition. | <a href="https://pub-d9afa562558146b39c2630ebdaf3018a.r2.dev/LMG/LMG%20App.apk"><img src="https://img.shields.io/badge/Download%20APK-25D366?style=for-the-badge"/></a> |
