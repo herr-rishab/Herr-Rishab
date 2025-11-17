@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishabagg/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/rishab-agg/" target="_blank" style="text-decoration: none;">
     <img height="40" src="https://img.icons8.com/fluency/48/linkedin-circled.png" alt="LinkedIn"/>
   </a>
 
