@@ -28,23 +28,25 @@ I'm a Computer Science student passionate about building high-impact software. I
 ---
 <h2 align="center">🔧 My Tech Stack</h2>
 
-<p align="center">
-  <strong>Languages</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,dart,kotlin,c" alt="Languages"/>
-  
-  <br/><br/><br/>
+<div align="center">
 
-  <strong>Frameworks & Libraries</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=spring,flutter,firebase" alt="Frameworks & Libraries"/>
+  <p>
+    <strong>Languages</strong><br/><br/>
+    <img src="https://skillicons.dev/icons?i=java,dart,kotlin,c" alt="Languages"/>
+  </p>
 
-  <br/><br/><br/>
+  <p>
+    <strong>Frameworks & Libraries</strong><br/><br/>
+    <img src="https://skillicons.dev/icons?i=spring,flutter,firebase" alt="Frameworks & Libraries"/>
+  </p>
 
-  <strong>Databases & Cloud</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,aws,gcp,cloudflare" alt="Databases & Cloud"/>
-</p>
+  <p>
+    <strong>Databases & Cloud</strong><br/><br/>
+    <img src="https://skillicons.dev/icons?i=postgres,aws,gcp,cloudflare" alt="Databases & Cloud"/>
+  </p>
+
+</div>
+
 
 
 ---
