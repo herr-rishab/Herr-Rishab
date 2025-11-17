@@ -9,7 +9,7 @@
   </a>
 
   <a href="mailto:hello@rishabaggarwal.dev" target="_blank" style="margin: 0 20px; text-decoration: none;">
-    <img height="40" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+    <img height="40" src="https://img.icons8.com/?size=100&id=7rhqrO588QcU&format=png&color=000000" alt="Email"/>
   </a>
 
   <a href="https://rishabaggarwal.dev" target="_blank" style="text-decoration: none;">
