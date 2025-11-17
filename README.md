@@ -4,18 +4,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishabagg/" target="_blank">
+  <a href="https://www.linkedin.com/in/rishabagg/" target="_blank" style="text-decoration: none;">
     <img height="40" src="https://img.icons8.com/fluency/48/linkedin-circled.png" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:herr.rishab@gmail.com" target="_blank" style="margin: 0 20px;">
+  <a href="mailto:hello@rishabaggarwal.dev" target="_blank" style="margin: 0 20px; text-decoration: none;">
     <img height="40" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
   </a>
 
-  <a href="https://rishabaggarwal.dev" target="_blank">
+  <a href="https://rishabaggarwal.dev" target="_blank" style="text-decoration: none;">
     <img height="40" src="https://img.icons8.com/fluency/48/domain.png" alt="Website"/>
   </a>
 </p>
+
 
 ---
 ### 🙋‍♂️ About Me
