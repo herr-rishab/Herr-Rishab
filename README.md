@@ -1,62 +1,114 @@
-<h1 align="center">Hi there, I'm Rishab Aggarwal 👋</h1>
+<h1 align="center">Rishab Aggarwal</h1>
 <p align="center">
-  <strong>Software Developer • Computer Science Student</strong>
+  <strong>Software Development Engineer</strong><br/>
+  Computer Science & Software Engineering • Manipal University Jaipur
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishab-agg/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/rishab-agg/" target="_blank">
     <img height="40" src="https://img.icons8.com/fluency/48/linkedin-circled.png" alt="LinkedIn"/>
   </a>
-
-  <a href="mailto:hello@rishabaggarwal.dev" target="_blank" style="margin: 0 20px; text-decoration: none;">
+  <a href="mailto:hello@rishabaggarwal.dev" target="_blank" style="margin: 0 20px;">
     <img height="40" src="https://img.icons8.com/?size=100&id=7rhqrO588QcU&format=png&color=000000" alt="Email"/>
   </a>
-
-  <a href="https://rishabaggarwal.dev" target="_blank" style="text-decoration: none;">
+  <a href="https://rishabaggarwal.dev" target="_blank">
     <img height="40" src="https://img.icons8.com/fluency/48/domain.png" alt="Website"/>
   </a>
 </p>
 
+---
+
+### 👨‍💻 About Me
+
+Software Development Engineer specializing in full-stack mobile and web applications. I build production systems that scale — from B2B e-commerce platforms processing $10M+ in annual sales to consumer apps serving 10M+ users across iOS and Android.
+
+**Track Record:**
+- 📱 50+ production applications shipped
+- 🏆 5+ years building real-world, reliability-focused systems
+- 👥 10M+ users across iOS and Android platforms
+- 💼 Experience across healthcare, real estate, e-commerce, and AI-powered applications
 
 ---
-### 🙋‍♂️ About Me
 
-I'm a Computer Science student passionate about building high-impact software. I specialize in mobile development with **Flutter** and backend services with **Spring Boot**. I thrive on taking projects from idea to production, as seen in my work on apps reaching over **500,000 users**.
-
-
-
----
-<h2 align="center">🔧 My Tech Stack</h2>
+<h2 align="center">🔧 Tech Stack</h2>
 
 <div align="center">
-
   <p>
-    <strong>Languages</strong><br/><br/>
-    <img src="https://skillicons.dev/icons?i=java,dart,kotlin,c" alt="Languages"/>
+    <strong>Languages & Frameworks</strong><br/><br/>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,typescript,nextjs,python,fastapi,java,spring" alt="Languages & Frameworks"/>
   </p>
 
   <p>
-    <strong>Frameworks & Libraries</strong><br/><br/>
-    <img src="https://skillicons.dev/icons?i=spring,flutter,firebase" alt="Frameworks & Libraries"/>
+    <strong>Backend & Databases</strong><br/><br/>
+    <img src="https://skillicons.dev/icons?i=postgres,redis,firebase,supabase" alt="Databases"/>
   </p>
 
   <p>
-    <strong>Databases & Cloud</strong><br/><br/>
-    <img src="https://skillicons.dev/icons?i=postgres,aws,gcp,cloudflare" alt="Databases & Cloud"/>
+    <strong>Cloud & Infrastructure</strong><br/><br/>
+    <img src="https://skillicons.dev/icons?i=gcp,aws,docker,nginx,cloudflare" alt="Cloud & Infrastructure"/>
   </p>
-
 </div>
-
-
 
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **SweetReactions AI** | AI-powered glucose-response coach with food scoring & insights. Built for a US wellness founder. | <a href="https://apps.apple.com/in/app/sweetreactions-ai/id6749315439"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/></a> <a href="https://play.google.com/store/apps/details?id=com.sweetreactions.app"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"/></a> |
-| **Aanavandi (500k+ Installs)** | Offline-first public transport app for Kerala. Built with Flutter & SQLite. | <a href="https://play.google.com/store/apps/details?id=aanavandi.services"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40"/></a> |
-| **SwopBand** | NFC profile sharing app that lets you share your profile instantly with a tap of your NFC ring. | <a href="https://apps.apple.com/us/app/swopband/id6749292126"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/></a> |
-| **BroachCutter Dealer App** | B2B e-commerce app for official dealers of BroachCutter Drilling Machines. Built with Flutter + Firebase. | <a href="https://apps.apple.com/in/app/broachcutter-dealer/id6748963995"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40"/></a> |
-| **Dashlytics** | **BuildFest '25 Finalist.** Turns sales analytics into AI story cards & voice insights. | <a href="https://www.youtube.com/watch?v=y_FnW5DuiXM"><img src="https://img.shields.io/badge/Watch%20Demo-red?style=for-the-badge&logo=youtube"/></a> |
-| **LMG** | Sign language translator (Text ↔ Sign) using Gemini 2.5 Pro gesture recognition. | <a href="https://pub-d9afa562558146b39c2630ebdaf3018a.r2.dev/LMG/LMG%20App.apk"><img src="https://img.shields.io/badge/Download%20APK-25D366?style=for-the-badge"/></a> |
+### **MAXREV** — Real Estate Platform
+A platform for a US real estate brokerage enabling agents to earn 100% commission and manage their business independently with integrated tools and automation.
+
+**Stack:** Flutter • Firebase • GCP  
+**Links:** [App Store](https://apps.apple.com/us/app/maxrev/id6761559906) • [Website](https://joinmaxrev.com/)
+
+---
+
+### **BroachCutter** — B2B E-Commerce Platform
+Built for India's biggest drilling machine manufacturer, powering **$10M+ annual sales** through real-time dealer ordering with inventory management and analytics.
+
+**Stack:** Flutter • Firebase • Real-time Sync  
+**Links:** [Website](https://www.broachcutter.net/) • [App Store](https://apps.apple.com/in/app/broachcutter-dealer/id6748963995) • [Play Store](https://play.google.com/store/apps/details?id=net.broachcutter.dealer)
+
+---
+
+### **Healthcare Meet** — AI-Powered Medical Consultation Platform
+Real-time video consultation platform with AI transcription and intelligent meeting summaries for healthcare providers.
+
+**Stack:** Next.js 15 • FastAPI • PostgreSQL 16 • LiveKit • Deepgram  
+**Link:** [meet.rishabaggarwal.dev](https://meet.rishabaggarwal.dev)
+
+---
+
+### **Sweet Reactions AI** — AI Nutrition Coach
+AI-powered nutrition coach providing real-time meal insights, built in collaboration with a **500K+ follower** health influencer.
+
+**Stack:** Flutter • Firebase • AI Integration  
+**Links:** [App Store](https://apps.apple.com/in/app/sweetreactions-ai/id6749315439) • [Website](https://www.sweetreactions.com/)
+
+---
+
+### **Aanavandi** — Public Transport App
+Offline-first utility app used by **500K+ users**, built for speed and reliability in real-world conditions with zero network dependency.
+
+**Stack:** Flutter • SQLite • Offline-First Architecture  
+**Link:** [Play Store](https://play.google.com/store/apps/details?id=com.aanavandi.aanavandi)
+
+---
+
+### **SwopBand** — NFC Profile Sharing
+NFC-powered Smart Ring platform to instantly share your profile and social links with a single tap. Hardware-software integration.
+
+**Stack:** Flutter • NFC Integration • Cloud Functions  
+**Links:** [App Store](https://apps.apple.com/in/app/swopband/id6749292126) • [Website](https://swopband.com)
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=herr-rishab&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+</div>
+
+---
+
+<p align="center">
+  <strong>Open to interesting engineering challenges and collaborations.</strong><br/>
+  Reach out: <a href="mailto:hello@rishabaggarwal.dev">hello@rishabaggarwal.dev</a>
+</p>
